@@ -1,0 +1,12 @@
+/Users/julia_jin/Desktop/try/target/debug/deps/tempfile-3dd559ea3ff95b67.rmeta: /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/lib.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/dir.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/error.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/mod.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/mod.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/spooled.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/util.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/unix.rs
+
+/Users/julia_jin/Desktop/try/target/debug/deps/tempfile-3dd559ea3ff95b67.d: /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/lib.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/dir.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/error.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/mod.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/mod.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/spooled.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/util.rs /Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/unix.rs
+
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/lib.rs:
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/dir.rs:
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/error.rs:
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/mod.rs:
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/mod.rs:
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/spooled.rs:
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/util.rs:
+/Users/julia_jin/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/unix.rs:
